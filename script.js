@@ -15,7 +15,6 @@ let tareasPendientes = 0
 
 
 function cambioCheckBox (){
-  console.log(this)
   if (this.checked){
     tareasPendientes--;
   }else{
