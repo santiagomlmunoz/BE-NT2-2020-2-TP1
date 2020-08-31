@@ -1,7 +1,7 @@
 # BE-NT2-2020-2-TP1
 
 El objetivo de este TP es la practica de Javascript y su paradigma creando una TODO App.
-Esta aplicación debe ser capaz de agregar TODOs y determinar la cantidad de tareas realizadas así como las NO realizadas.
+Esta aplicación debe ser capaz de agregar TO DOs y determinar la cantidad de tareas realizadas así como las NO realizadas.
 
 ## Instrucciones
 
